@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WRC", "YawPlugin\WRC.csproj", "{572F4BDF-C36B-4A7A-8EF8-924404A5A17F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{572F4BDF-C36B-4A7A-8EF8-924404A5A17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572F4BDF-C36B-4A7A-8EF8-924404A5A17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572F4BDF-C36B-4A7A-8EF8-924404A5A17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572F4BDF-C36B-4A7A-8EF8-924404A5A17F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33D42198-5E92-4C49-90CB-743A9787A73C}
+	EndGlobalSection
+EndGlobal
